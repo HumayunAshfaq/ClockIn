@@ -137,7 +137,7 @@ export default function App() {
         {/* Header */}
         <div className="text-center mb-8">
           <h1 className="mb-2 bg-gradient-to-r from-violet-400 via-purple-500 to-violet-600 bg-clip-text text-transparent text-[36px] font-bold drop-shadow-[0_0_20px_rgba(139,92,246,0.4)]">Day Logger</h1>
-          <p className="text-muted-foreground">Track your daily progress</p>
+          <p className="text-muted-foreground">Track your days</p>
         </div>
 
         {/* Main Log Today Button */}
